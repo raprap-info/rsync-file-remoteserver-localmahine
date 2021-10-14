@@ -1,1 +1,1 @@
- rsync -avrP --exclude='/*/.local'  -e "ssh -p " username@serverhost/ip:/home/directory/* /mnt/c/Users/HRIS\ Admin/Desktop/V2-HOST-IGSL-ASA-FB
+ rsync -avrP --exclude='/*/.local'  -e "ssh -p " username@serverhost/ip:/home/directory/* /mnt/c/Users/HRIS\ Admin/Desktop/FolderName
